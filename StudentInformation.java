@@ -8,7 +8,7 @@ package student.information.system;
 
 /**
  *
- * @author Hyrex
+ * @ikpor hyacinth
  */
 import net.proteanit.sql.DbUtils;
 import java.awt.*;
